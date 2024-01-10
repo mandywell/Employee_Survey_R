@@ -69,6 +69,7 @@ summary(employee_survey)
 # }
 
 # Validate that the column names were replaced correctly and create a back up file (ex. post_colRename_employee_survey)
+# Note: You can use library(janitor) to truncate the column names; however, I wanted to create my own column titles that made sense to me. 
 # print(names(employee_survey))
 
 # Back-up employee_survey (Do this before and after any major change) View() or head() data to confirm data looks good
