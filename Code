@@ -579,7 +579,7 @@ original_word_freq_group4_df <- word_freq_group4_df
 # original_word_freq_group3stem_df <- word_freq_group3stem_df
 # original_word_freq_group4stem_df <- word_freq_group4stem_df
 
-# NEW #Combine the word_freq_group_dfs to one dataframe for further analysis or visualizations - USE FOR TIDY TEXT SENTIMENT ANALYSIS
+# Combine the word_freq_group_dfs to one dataframe for further analysis or visualizations - USE FOR TIDY TEXT SENTIMENT ANALYSIS
 # Stack the data frames vertically
 total_word_freq_df <- bind_rows(word_freq_group1_df, word_freq_group2_df, 
                                 word_freq_group3_df, word_freq_group4_df)
