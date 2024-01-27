@@ -34,3 +34,6 @@ Cross-tabulation and Cluster Analysis: Depending on the types of questions, unde
 
 Advanced Analysis: Apply statistical tests where appropriate, like t-tests, ANOVA, or regression analysis. (Note: Same as above)
 
+# NEXT STEPS
+* Add sample survey questions
+* Add sample survey dataset
